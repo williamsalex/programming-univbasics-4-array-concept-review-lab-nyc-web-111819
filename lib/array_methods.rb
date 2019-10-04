@@ -1,6 +1,7 @@
 def find_element_index(array, value_to_find)
   largestElement = 0
-  array.length do 
+  array.each do |currElement|
+    
 end
 
 def find_max_value(array)
